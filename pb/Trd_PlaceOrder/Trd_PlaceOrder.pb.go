@@ -7,8 +7,8 @@
 package Trd_PlaceOrder
 
 import (
-	Common "futugg/pb/Common"
-	Trd_Common "futugg/pb/Trd_Common"
+	Common "github.com/jerryharbour/futugg/pb/Common"
+	Trd_Common "github.com/jerryharbour/futugg/pb/Trd_Common"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

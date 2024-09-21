@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"futugg"
-	_ "futugg/handlers"
-	// "futugg/pb/InitConnect"
+
+	"github.com/jerryharbour/futugg"
+	_ "github.com/jerryharbour/futugg/handlers"
+	// "github.com/jerryharbour/futugg/pb/InitConnect"
 	// "github.com/golang/protobuf/proto"
 )
 

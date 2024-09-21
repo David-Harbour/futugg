@@ -2,8 +2,8 @@ package handlers
 
 import (
 	"fmt"
-	"futugg"
-	"futugg/pb/GetGlobalState"
+	"github.com/jerryharbour/futugg"
+	"github.com/jerryharbour/futugg/pb/GetGlobalState"
 
 	"github.com/golang/protobuf/jsonpb"
 	"github.com/golang/protobuf/proto"

@@ -2,8 +2,8 @@ package handlers
 
 import (
 	"fmt"
-	"futugg"
-	"futugg/pb/KeepAlive"
+	"github.com/jerryharbour/futugg"
+	"github.com/jerryharbour/futugg/pb/KeepAlive"
 	"log"
 	"time"
 

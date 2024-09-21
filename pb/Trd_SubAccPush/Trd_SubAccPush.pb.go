@@ -6,7 +6,7 @@ package Trd_SubAccPush
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
-import _ "futugg/pb/Common"
+import _ "github.com/jerryharbour/futugg/pb/Common"
 
 // Reference imports to suppress errors if they are not otherwise used.
 var _ = proto.Marshal

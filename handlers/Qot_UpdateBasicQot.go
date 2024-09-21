@@ -3,8 +3,8 @@ package handlers
 import (
 	// "encoding/json"
 	"fmt"
-	"futugg"
-	"futugg/pb/Qot_UpdateBasicQot"
+	"github.com/jerryharbour/futugg"
+	"github.com/jerryharbour/futugg/pb/Qot_UpdateBasicQot"
 
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/jsonpb"

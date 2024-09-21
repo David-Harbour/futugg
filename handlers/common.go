@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"futugg/pb/Qot_Common"
-	"futugg/pb/Trd_Common"
+	"github.com/jerryharbour/futugg/pb/Qot_Common"
+	"github.com/jerryharbour/futugg/pb/Trd_Common"
 	"strings"
 	"strconv"
 )

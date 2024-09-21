@@ -6,8 +6,8 @@ package Qot_GetRT
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
-import _ "futugg/pb/Common"
-import Qot_Common "futugg/pb/Qot_Common"
+import _ "github.com/jerryharbour/futugg/pb/Common"
+import Qot_Common "github.com/jerryharbour/futugg/pb/Qot_Common"
 
 // Reference imports to suppress errors if they are not otherwise used.
 var _ = proto.Marshal

@@ -2,8 +2,8 @@ package handlers
 
 import (
     "fmt"
-    "futugg"
-    "futugg/pb/Trd_UpdateOrder"
+    "github.com/jerryharbour/futugg"
+    "github.com/jerryharbour/futugg/pb/Trd_UpdateOrder"
 
     "github.com/golang/protobuf/proto"
     "github.com/golang/protobuf/jsonpb"

@@ -2,8 +2,8 @@ package handlers
 
 import (
 	"fmt"
-	"futugg"
-	"futugg/pb/Notify"
+	"github.com/jerryharbour/futugg"
+	"github.com/jerryharbour/futugg/pb/Notify"
 	"log"
 
 	"github.com/golang/protobuf/proto"

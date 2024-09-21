@@ -2,8 +2,8 @@ package handlers
 
 import (
     "fmt"
-    "futugg"
-    "futugg/pb/Qot_GetPlateSecurity"
+    "github.com/jerryharbour/futugg"
+    "github.com/jerryharbour/futugg/pb/Qot_GetPlateSecurity"
 
     "github.com/golang/protobuf/proto"
     "github.com/golang/protobuf/jsonpb"

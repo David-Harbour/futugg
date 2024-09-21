@@ -7,7 +7,7 @@
 package Trd_UnlockTrade
 
 import (
-	_ "futugg/pb/Common"
+	_ "github.com/jerryharbour/futugg/pb/Common"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

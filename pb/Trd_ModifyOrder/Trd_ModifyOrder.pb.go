@@ -6,8 +6,8 @@ package Trd_ModifyOrder
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
-import Common "futugg/pb/Common"
-import Trd_Common "futugg/pb/Trd_Common"
+import Common "github.com/jerryharbour/futugg/pb/Common"
+import Trd_Common "github.com/jerryharbour/futugg/pb/Trd_Common"
 
 // Reference imports to suppress errors if they are not otherwise used.
 var _ = proto.Marshal

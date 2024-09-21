@@ -2,8 +2,8 @@ package handlers
 
 import (
     "fmt"
-    "futugg"
-    "futugg/pb/Qot_UpdateKL"
+    "github.com/jerryharbour/futugg"
+    "github.com/jerryharbour/futugg/pb/Qot_UpdateKL"
 
     "github.com/golang/protobuf/proto"
     "github.com/golang/protobuf/jsonpb"
